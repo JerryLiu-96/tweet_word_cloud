@@ -5,11 +5,13 @@ In this repository, we use tweepy to crawl tweets in a real-time manner. We craw
 We select United States and United Kingdom to test our crawler because we are interested to see what people in both countries are trending online at the same time. Since our crawler filters English tweets, we believe crawling English contents in English-speaking countries bears least biase compared with crawling English contents in non English-speaking countries.
 
 ## Comparing the Maps
-Below please see the mapping of the geo-tagged data. Apparently, the density of dots correlates with population distribution. In US, dots are mostly clustered on coasts and major inland cities, while in UK, we observe clusters around London.
+Below please see the mapping of the geo-tagged data. Apparently, the density of dots correlates with population distribution. In US, dots are mostly clustered on coasts and also major inland cities, while in UK, we observe clusters around London and central England.
   ![uk_map](img/UK_screenshot.png)
   ![us_map](img/US_screenshot.png)
 
 ## Comparing the Word Clouds
 It is interesting to see what topics are people in US and UK are trending most. As we can see from the word cloud below, people in UK are mostly expressing gratitudes to others (A big "Thank" in the center of the word cloud), while in the US, people are more expressive of their own lives, job and work are most common words in US twitter platform.
+
+However, it is also interesting to see that people from both countries are expressive of love on twitter.
   ![uk_wordcloud](img/Word_Art_uk.png)
   ![us_wordcloud](img/Word_Art_us.png)
