@@ -11,5 +11,5 @@ Below please see the mapping of the geo-tagged data. Apparently, the density of 
 
 ## Comparing the Word Clouds
 It is interesting to see what topics are people in US and UK are trending most. As we can see from the word cloud below, people in UK are mostly expressing gratitudes to others (A big "Thank" in the center of the word cloud), while in the US, people are more expressive of their own lives, job and work are most common words in US twitter platform.
-  ![uk_wordcloud](img/Word Art uk.png)
-  ![us_wordcloud](img/Word Art us.png)
+  ![uk_wordcloud](img/Word_Art_uk.png)
+  ![us_wordcloud](img/Word_Art_us.png)
